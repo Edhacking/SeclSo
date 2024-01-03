@@ -1,3 +1,7 @@
+
+
+![Black and White Bold Typographic Gaming and Tech Logo](https://github.com/0x1h3r/SeclSo/assets/30873598/f0ba7e71-7e3b-49a9-ba0b-2fe156faeb56)
+
 SeclSo
 Somalian version of security lists inspired by "seclists."
 
