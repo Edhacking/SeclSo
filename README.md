@@ -7,9 +7,10 @@ SeclSo
 Somalian version of security lists inspired by "seclists."
 
 Overview
-Welcome to SeclSo, your go-to resource for security-related lists tailored for the Somali community. This repository is inspired by the renowned "seclists" project, offering curated security lists with a Somali touch.
+SeclSo is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. The goal is to enable a security tester to pull this repository onto a new testing box and have access to every type of list that may be needed.
 
 Features
+
 Somali-Focused Lists: Addressing unique security considerations in Somalia.
 Diverse Security Categories: Explore comprehensive security topics.
 Regular Updates: Keeping pace with emerging threats in the region.
