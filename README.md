@@ -19,7 +19,7 @@ Getting Started
 
 Git (Complete)
 
-git clone https://github.com/danielmiessler/SecLists.git
+git clone https://github.com/0x1h3r/SeclSo.git
 
 Explore the security lists in the lists directory.
 Contribute or suggest improvements!
