@@ -17,7 +17,10 @@ Regular Updates: Keeping pace with emerging threats in the region.
 Community Contributions: Open to suggestions and contributions from the community.
 Getting Started
 
-Clone the repo: git clone https://github.com/your-username/SeclSo.git
+Git (Complete)
+
+git clone https://github.com/danielmiessler/SecLists.git
+
 Explore the security lists in the lists directory.
 Contribute or suggest improvements!
 
